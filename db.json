@@ -1,0 +1,103 @@
+{
+  "Items": [
+    {
+      "Timestamp": "2019-06-05T22:00:00Z",
+      "Value": 6099.60546875,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false,
+      "Annotated": false
+    },
+    {
+      "Timestamp": "2019-06-05T22:05:00Z",
+      "Value": 6129.4443359375,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false,
+      "Annotated": false
+    },
+    {
+      "Timestamp": "2019-06-05T22:10:00Z",
+      "Value": 6119.6357421875,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false,
+      "Annotated": false
+    },
+    {
+      "Timestamp": "2019-06-05T22:15:00Z",
+      "Value": 6503.55029296875,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false,
+      "Annotated": false
+    },
+    {
+      "Timestamp": "2019-06-05T22:20:00Z",
+      "Value": 6405.328125,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false,
+      "Annotated": false
+    },
+    {
+      "Timestamp": "2019-06-05T22:25:00Z",
+      "Value": 7245.5283203125,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false,
+      "Annotated": false
+    },
+    {
+      "Timestamp": "2019-06-05T22:30:00Z",
+      "Value": 7206.38232421875,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false,
+      "Annotated": false
+    },
+    {
+      "Timestamp": "2019-06-05T22:35:00Z",
+      "Value": 6334.38232421875,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false,
+      "Annotated": false
+    },
+    {
+      "Timestamp": "2019-06-05T22:40:00Z",
+      "Value": 6354.2275390625,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false,
+      "Annotated": false
+    },
+    {
+      "Timestamp": "2019-06-05T22:45:00Z",
+      "Value": 6378.7705078125,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false,
+      "Annotated": false
+    },
+    {
+      "Timestamp": "2019-06-05T22:50:00Z",
+      "Value": 6382.6103515625,
+      "UnitsAbbreviation": "",
+      "Good": true,
+      "Questionable": false,
+      "Substituted": false,
+      "Annotated": false
+    }
+  ]
+}
